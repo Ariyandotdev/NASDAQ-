@@ -26,7 +26,7 @@ Nasdaq is packed with growth and tech companies, whose valuations lean heavily o
 
 Earnings from mega-cap tech
 
-Because the Nasdaq-100 is so top-heavy (Apple, Microsoft, Nvidia, Amazon, Alphabet, Meta, Broadcom, Tesla make up a huge chunk of the weighting), earnings reports and guidance from a handful of companies can move the whole index. Nvidia earnings day, for example, can swing the entire Nasdaq regardless of what's happening elsewhere in the economy.
+Because the Nasdaq-100 is so top-heavy (Apple, Microsoft, Nvidia, Amazon, Alphabet, Meta, Broadcom, Tesla make up a huge chunk of the weighting), earnings reports and guidance from a handful of companies can move the whole index. Nvidia earnings day, for example, can swing the entire Nasdaq regardless of what's happening elsewhere in the economy
 
 AI and tech sentiment cycles
 
